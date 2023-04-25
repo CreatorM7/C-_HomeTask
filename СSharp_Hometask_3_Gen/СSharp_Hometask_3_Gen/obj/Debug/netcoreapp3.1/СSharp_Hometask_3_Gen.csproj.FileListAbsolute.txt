@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\bin\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.exe
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\bin\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.deps.json
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\bin\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.runtimeconfig.json
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\bin\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\bin\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.dll
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\bin\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.pdb
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\obj\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\obj\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\obj\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\obj\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\obj\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\obj\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.dll
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\obj\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.pdb
+C:\Users\LEGION\source\repos\СSharp_Hometask_3_Gen\СSharp_Hometask_3_Gen\obj\Debug\netcoreapp3.1\СSharp_Hometask_3_Gen.genruntimeconfig.cache
